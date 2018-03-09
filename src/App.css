@@ -1,0 +1,7 @@
+.App ul {
+  display: inline-block;
+}
+
+.App li {
+  text-decoration: none;
+}
